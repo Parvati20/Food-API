@@ -81,12 +81,19 @@
 
 const express = require('express');
 const app = express();
+const cors = require('cors');
+
+
+
 const connectDB = require("./db/connect");
 const MenuItem = require('./models/MenuItem');
+require('dotenv').config();
+app.use(cors());
 
 app.use(express.json());
 
-const PORT = 8000;
+// const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 
 // Connect to MongoDB
 connectDB();
