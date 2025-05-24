@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka",
+    "description": "Marinated paneer cubes grilled to perfection.",
+    "price": 180,
+    "image": "https://example.com/images/paneer_tikka.jpg",
+    "category": "starters"
+  },
+  {
+    "id": 2,
+    "name": "Veg Spring Rolls",
+    "description": "Crispy rolls stuffed with mixed vegetables.",
+    "price": 150,
+    "image": "https://example.com/images/veg_spring_rolls.jpg",
+    "category": "starters"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Lollipop",
+    "description": "Spicy fried chicken wings served with sauce.",
+    "price": 200,
+    "image": "https://example.com/images/chicken_lollipop.jpg",
+    "category": "starters"
+  },
+  {
+    "id": 4,
+    "name": "Hara Bhara Kabab",
+    "description": "Spinach and green pea patties, deep-fried.",
+    "price": 160,
+    "image": "https://example.com/images/hara_bhara_kabab.jpg",
+    "category": "starters"
+  },
+  {
+    "id": 5,
+    "name": "Cheese Balls",
+    "description": "Deep-fried balls with a cheesy center.",
+    "price": 170,
+    "image": "https://example.com/images/cheese_balls.jpg",
+    "category": "starters"
+  },
+  {
+    "id": 6,
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based chicken curry.",
+    "price": 250,
+    "image": "https://example.com/images/butter_chicken.jpg",
+    "category": "main_course"
+  },
+  {
+    "id": 7,
+    "name": "Paneer Butter Masala",
+    "description": "Paneer cubes in rich butter masala gravy.",
+    "price": 220,
+    "image": "https://example.com/images/paneer_butter_masala.jpg",
+    "category": "main_course"
+  },
+  {
+    "id": 8,
+    "name": "Veg Biryani",
+    "description": "Aromatic rice with mixed vegetables and spices.",
+    "price": 200,
+    "image": "https://example.com/images/veg_biryani.jpg",
+    "category": "main_course"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Biryani",
+    "description": "Spiced rice layered with tender chicken pieces.",
+    "price": 240,
+    "image": "https://example.com/images/chicken_biryani.jpg",
+    "category": "main_course"
+  },
+  {
+    "id": 10,
+    "name": "Dal Makhani",
+    "description": "Slow-cooked black lentils in creamy gravy.",
+    "price": 180,
+    "image": "https://example.com/images/dal_makhani.jpg",
+    "category": "main_course"
+  },
+  {
+    "id": 11,
+    "name": "Gulab Jamun",
+    "description": "Soft milk-solid balls soaked in sugar syrup.",
+    "price": 100,
+    "image": "https://example.com/images/gulab_jamun.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 12,
+    "name": "Rasgulla",
+    "description": "Spongy white balls in light sugar syrup.",
+    "price": 100,
+    "image": "https://example.com/images/rasgulla.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 13,
+    "name": "Ice Cream Sundae",
+    "description": "Vanilla ice cream topped with nuts and syrup.",
+    "price": 120,
+    "image": "https://example.com/images/ice_cream_sundae.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 14,
+    "name": "Brownie with Ice Cream",
+    "description": "Warm brownie served with a scoop of vanilla ice cream.",
+    "price": 150,
+    "image": "https://example.com/images/brownie_ice_cream.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 15,
+    "name": "Fruit Salad",
+    "description": "Fresh seasonal fruits served with cream.",
+    "price": 130,
+    "image": "https://example.com/images/fruit_salad.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 16,
+    "name": "Masala Chai",
+    "description": "Traditional Indian spiced tea.",
+    "price": 50,
+    "image": "https://example.com/images/masala_chai.jpg",
+    "category": "beverages"
+  },
+  {
+    "id": 17,
+    "name": "Cold Coffee",
+    "description": "Chilled coffee blended with ice cream.",
+    "price": 80,
+    "image": "https://example.com/images/cold_coffee.jpg",
+    "category": "beverages"
+  },
+  {
+    "id": 18,
+    "name": "Fresh Lime Soda",
+    "description": "Refreshing soda with lime juice.",
+    "price": 60,
+    "image": "https://example.com/images/fresh_lime_soda.jpg",
+    "category": "beverages"
+  },
+  {
+    "id": 19,
+    "name": "Mango Lassi",
+    "description": "Sweet mango yogurt drink.",
+    "price": 70,
+    "image": "https://example.com/images/mango_lassi.jpg",
+    "category": "beverages"
+  },
+  {
+    "id": 20,
+    "name": "Mineral Water",
+    "description": "Bottled drinking water.",
+    "price": 30,
+    "image": "https://example.com/images/mineral_water.jpg",
+    "category": "beverages"
+  }
+]
