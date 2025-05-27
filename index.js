@@ -83,11 +83,11 @@
 
 const express = require('express');
 const app = express();
-const cors = require('cors');
+// const cors = require('cors');
 const connectDB = require("./db/connect");
 const MenuItem = require('./models/MenuItem');
 require('dotenv').config();
-app.use(cors());
+// app.use(cors());
 
 app.use(express.json());
 
